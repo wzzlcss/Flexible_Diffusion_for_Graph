@@ -1,0 +1,11 @@
+torch==1.7.0
+matplotlib==3.3.3
+GitPython==3.1.2
+jupyter==1.0.0
+numpy==1.20.0
+scipy
+scikit-learn==0.24.0
+tensorboard==2.2.2
+networkx==2.5
+python-igraph==0.8.3
+pycairo==1.20.0
